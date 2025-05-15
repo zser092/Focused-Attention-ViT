@@ -115,10 +115,3 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch: `git push origin feature/your-feature-name`.
 5. Open a Pull Request describing your changes.
 
-## License
-
-This project is released under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For questions or suggestions, please open an issue or contact the maintainer at <your-email@example.com>.
