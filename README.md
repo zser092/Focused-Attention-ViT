@@ -103,7 +103,7 @@ Modify these files to customize model hyperparameters or integrate new architect
 ## Utilities
 
 The `utils/` folder contains helper functions:
-- **data_utils.py**: Data loaders, dataset preprocessing, and augmentation utilities.
+-**data_utils.py**: Data loaders, dataset preprocessing, and augmentation utilities.
 - **metrics.py**: Evaluation metrics such as accuracy, AUC, and confusion matrix utilities.
 
 ## Contributing
@@ -115,3 +115,7 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch: `git push origin feature/your-feature-name`.
 5. Open a Pull Request describing your changes.
 
+
+## Citation
+If you are using any module from this repository, please cite the following paper: 
+- Gaurav, S., Humayun, M. F., Heikkonen, J., & Chaudhary, J. (2025). Focus Your Attention: Towards Data-Intuitive Lightweight Vision Transformers. arXiv preprint arXiv:2506.18791.
